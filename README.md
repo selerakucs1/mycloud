@@ -11,3 +11,6 @@ git clone https://github.com/selerakucs1/mycloud.git
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+cd mycloud
+chmod +x mine.sh
+sudo ./mine.sh
