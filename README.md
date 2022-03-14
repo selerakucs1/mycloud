@@ -1,6 +1,6 @@
 ### mycloud 
 Here are some ideas to get you started:
-git clone https://github.com/selerakucs1/mycloud.git
+- 🔭 git clone https://github.com/selerakucs1/mycloud.git
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +11,6 @@ git clone https://github.com/selerakucs1/mycloud.git
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- cd mycloud
-- chmod +x mine.sh
-- sudo ./mine.sh
+- 📫 cd mycloud
+- 📫 chmod +x mine.sh
+- ⚡ sudo ./mine.sh
