@@ -1,10 +1,7 @@
 ### mycloud 
-apt update && apt install git wget proot -y && git clone https://github.com/htr-tech/ubuntu && cd ubuntu && chmod +x ubuntu.sh && bash ubuntu.sh
-<!--
-**selerakucs1/selerakucs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
+git clone https://github.com/selerakucs1/mycloud.git
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,4 +11,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-bash start.sh
