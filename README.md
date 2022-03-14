@@ -1,5 +1,5 @@
 ### mycloud 
-Here are some ideas to get you started:
+**Here are some ideas to get you started:**
 - git clone https://github.com/selerakucs1/mycloud.git
 - cd mycloud
 - chmod +x mine.sh
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### don't try it "koleksi pribadi" - test
